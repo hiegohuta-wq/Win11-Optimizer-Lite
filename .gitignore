@@ -1,0 +1,4 @@
+*.log
+optimization.log
+__pycache__/
+*.pyc
